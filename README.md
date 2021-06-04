@@ -1,7 +1,7 @@
 # WebsiteShower
 The aplication for implement websites in ios app. 
 The app open 2 sites - apple.com and hackingwithswift.com
-## Tools to implement the project
+## Tools implemented in project
   - UIAlertController
   - UIToolbar
   - WKWebWiew
